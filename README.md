@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="rsdrS54nP9GB49EKrJ5TwcTa3eUi9Oyl9X8WDOOxios" />
+</head>
+
 ![logo](https://github.com/TiriCypher/TiriCypher/blob/main/Screenshot%202024-03-18%20195238.png)
 <h1 align="center">Hi 👋, I'm TiriCypher</h1>
 <h3 align="center">A passionate Coder from India</h3>
